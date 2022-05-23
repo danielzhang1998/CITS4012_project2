@@ -12,4 +12,4 @@ Get the train, test, validate data sets
 
 Store the train, test, validate data sets into the csv files
 
-Data Exploration
+<s>Data Exploration</s>
