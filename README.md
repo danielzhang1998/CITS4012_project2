@@ -12,7 +12,7 @@ Get the train, test, validate data sets
 
 Store the train, test, validate data sets into the csv files
 
-<s>Data Exploration</s> This part will be back soon, still trying to debug
+<s>Data Exploration</s> This part already back
 
 fnn for top 10 tfidf words
 
